@@ -1,0 +1,14 @@
+{
+  "Ferreteria": [
+    {
+      "Nombre": "Martillo",
+      "Descripcion": "Pesado",
+      "Precio": "30"
+    },
+    {
+      "Nombre": "Clavo",
+      "Descripcion": "ligero",
+      "Precio": "5"
+    }
+  ]
+}
